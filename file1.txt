@@ -1,2 +1,1 @@
-THis is file1 for Master Branch.
-By kanshika Chawla
+New file added in Master branch After creating feature1_new
